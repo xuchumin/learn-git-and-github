@@ -2,5 +2,6 @@
 2.commit相当于确认
 3.commit hash 每次commit会生成一个哈希码
 5.branch 分支，可以做不同的事
-6.pull request可以把分支合进master
-7.merge 分支合并的国程
+6.pull request可以把branch或者fork合并进master
+7.merge 合并的国程
+8.fork 相当于克隆别人的库自己用，可以通过pull request合回去
