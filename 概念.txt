@@ -1,3 +1,6 @@
 1.Repository(repo)相当于一个文件夹，一个项目一个repo
 2.commit相当于确认
 3.commit hash 每次commit会生成一个哈希码
+5.branch 分支，可以做不同的事
+6.pull request可以把分支合进master
+7.merge 分支合并的国程
