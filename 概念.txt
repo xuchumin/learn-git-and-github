@@ -8,3 +8,4 @@
 9.issues 提问！
 10.markdown github特有的style.
 11.在commit的时候用 #（问题数） 引用问题可以回复问题。用 fixes #（问题数）可以关闭问题..注意空格！！
+12.在description的时候复制一段hash code可以生成其链接。
