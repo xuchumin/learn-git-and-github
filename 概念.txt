@@ -7,4 +7,4 @@
 8.fork 相当于克隆别人的库自己用，可以通过pull request合回去
 9.issues 提问！
 10.markdown github特有的style.
-11.在commit的时候用 #（问题数） 引用问题可以回复问题。用fixes #（问题数）可以关闭问题..
+11.在commit的时候用 #（问题数） 引用问题可以回复问题。用 fixes #（问题数）可以关闭问题..
