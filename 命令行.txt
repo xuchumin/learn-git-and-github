@@ -2,6 +2,7 @@
   - cd . 到上一目录
 pwd 打印所在目录
 ls 列出所在目录文件
+ ls  xxx  -all显示更多信息
 clear 清空窗口
 open 文件名 打开某文建
 tab键 自动补全
