@@ -6,4 +6,4 @@
 7.merge 合并的国程
 8.fork 相当于克隆别人的库自己用，可以通过pull request合回去
 9.issues 提问！
-10.markdown github特有的style。
+10.markdown github特有的style.
